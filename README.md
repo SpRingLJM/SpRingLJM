@@ -64,5 +64,3 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpRingLJM&layout=compact&theme=dark)
-
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@spring7s/posts/)

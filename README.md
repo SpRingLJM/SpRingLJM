@@ -61,6 +61,8 @@
 </div>
 
 <br>
+<br>
+<br>
 
 ![My_Algorithms's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpRingLJM&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpRingLJM&layout=compact&theme=dark)

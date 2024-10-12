@@ -6,7 +6,7 @@ Let me introduce my development tools and stacks
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=header&text=Welcome%20to%20JakeLee's%20GitHub&fontSize=60" />
 </div>
 
 <!--내용 부분-->

@@ -59,3 +59,9 @@
       src="https://img.shields.io/badge/81spring7s@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spring7s)](https://solved.ac/spring7s)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpRingLJM&layout=compact&theme=dark)
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@spring7s/posts/)

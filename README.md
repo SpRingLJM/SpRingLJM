@@ -62,6 +62,9 @@
 
 <br>
 <br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spring7s)](https://solved.ac/spring7s)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spring7s)](https://solved.ac/spring7s)
+
 ![My_Algorithms's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpRingLJM&show_icons=true&theme=cobalt)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpRingLJM&layout=compact&theme=dark)

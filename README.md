@@ -34,6 +34,15 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Zed-4D7B9D?style=for-the-badge&logo=zed&logoColor=white" />&nbsp;
+</div>
+
+<br>
+
+<h3 align="center"> 📚 Someday...? 📚 </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;
 </div>
 
 <br>

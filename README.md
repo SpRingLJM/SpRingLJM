@@ -1,6 +1,6 @@
 <!--Title-->
 # <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=120&section=header&text=Welcome%20to%20Jake%20Lee's%20GitHub&fontSize=50" />
+ <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=120&section=header&text=Welcome%20to%20Jake%20Lee's%20GitHub&fontSize=60" />
 </div>
 
 <!--내용 부분-->

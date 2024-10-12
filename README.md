@@ -7,6 +7,10 @@
 <h3 align="center">✨ Available Languages ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp;
 </div>
 
 <div align="center">

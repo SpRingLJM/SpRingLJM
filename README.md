@@ -63,9 +63,7 @@
 <br>
 <br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=spring7s)](https://solved.ac/spring7s)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=spring7s)](https://solved.ac/spring7s)
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=spring7s)](https://solved.ac/spring7s)
 ![My_Algorithms's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpRingLJM&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpRingLJM&layout=compact&theme=dark)

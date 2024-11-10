@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;<br>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;
 </div>
 
 <br>
@@ -44,7 +45,6 @@
 <h3 align="center"> 📚 Someday...? 📚 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;
 </div>
 
 <br>
